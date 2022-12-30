@@ -5,6 +5,26 @@
                         if (c[l = [null, "HEAD", (k = [4, 8, "B"], " a ")], k[2]] == Q) {
                             if (z[N[6](57, (K = new wv, K), t[35](5, 16, CB, B.C)), 2](5, 13, K.get())) try {
                                 L = N[42](k[0], V, S[20](k[1], Q, B[k[2]]), B.mb), R[18](17, Q, w, r.K, L)
+                                console.log({
+                                    b: b,
+                                    w: w,
+                                    C: C,
+                                    V: V,
+                                    Q: Q,
+                                    B: B,
+                                    r: r,
+                                    K: K,
+                                    v: v,
+                                    E: E,
+                                    P: P,
+                                    X: X,
+                                    e: e,
+                                    L: L,
+                                    W: W,
+                                    I: I,
+                                    y: y,
+                                    U: U
+                                })
                             } catch (h) {
                                 r.l.then(function (M) {
                                     return M.send("u",
